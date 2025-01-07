@@ -85,8 +85,7 @@ public class Assignment5 {
 	randomNumbers[8]=9;
 	randomNumbers[9]=10;
 	
-	System.out.println(randomNumbers[0] + ","+randomNumbers[2]+","+randomNumbers[4] + ","+randomNumbers[6]+","+randomNumbers[8] + ","+randomNumbers[1]+","+randomNumbers[3] + ","+randomNumbers[5]+","+randomNumbers[7] + ","+randomNumbers[9]);
-	
+	System.out.println(randomNumbers[2] +randomNumbers[4]);
 	System.out.println("===============================================================");
 	
 	//5.Create a list of the top 5 highest-grossing movies of all time and print out the third movie  on the list.
